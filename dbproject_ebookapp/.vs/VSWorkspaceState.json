@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dbproject_ebookapp",
+    "\\dbproject_ebookapp\\templates",
+    "\\ebook_shop",
+    "\\ebook_shop\\templates",
+    "\\ebook_shop\\templates\\ebook_shop",
+    "\\media\\ebook_shop",
+    "\\media\\static"
+  ],
+  "SelectedNode": "\\ebook_shop\\views.py",
+  "PreviewInSolutionExplorer": false
+}
